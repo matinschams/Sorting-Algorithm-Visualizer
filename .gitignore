@@ -1,0 +1,14 @@
+# IDE files
+.vscode/
+
+# nodejs ignores
+node_modules/
+
+# webpack build artifacts
+dist/
+
+# log files
+*.log
+
+# macOS metadata files
+.DS_Store
